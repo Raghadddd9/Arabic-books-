@@ -11,6 +11,7 @@
 - Overview
 
 "Rate books and get recommendations"
+
 In this project a topic modling with a recommendations system will be bulid to give a topics given the description of each book, and a recommendations depending on books ratings.
 
 
