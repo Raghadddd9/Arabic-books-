@@ -23,9 +23,7 @@ This model was bulid for all arabic books lovers to get a recommendation for a b
 
 - Data Description 
 
-We took our data from github for webscraping (Abjjad) website, [here(https://github.com/iHaifaa/Arabic_Books_Recommendation_System/tree/main/Data)
-
-
+We took our data from github for webscraping (Abjjad) website. [here](https://github.com/iHaifaa/Arabic_Books_Recommendation_System/tree/main/Data)
 
 - Features 
 
