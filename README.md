@@ -15,9 +15,6 @@
 In this project a topic modling with a recommendation system will be bulid given the description and ratings of each book.
 
 
-
-
-
 - Problem Statment
 This model was bulid for all arabic books lovers to get a recommendation for a best book based on ratings.
 
