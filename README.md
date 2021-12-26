@@ -63,4 +63,4 @@ We took our data from github for webscraping (Abjjad) website. [here](https://gi
 
 - Tools 
 
-Numpy, Pandas , matplotlib,sklearn , farasa , nltk.
+Numpy, Pandas , matplotlib , sklearn , farasa , nltk.
