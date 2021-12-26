@@ -35,25 +35,27 @@ We took our data from github for webscraping (Abjjad) website. [here](https://gi
 
   - Authors_Number: Number of authors, it is 1 if the book has only one author.
 
- - Description: The text description of the book, taken from the book summary or written by an admin.
+  - Description: The text description of the book, taken from the book summary or written by an admin.
 
- - Genres :The category of the book.
+  - Genres :The category of the book.
 
- - Average_Ratings:Average rate for a given book.
+  - Average_Ratings:Average rate for a given book.
 
- - Reviews_Number:	Number of written reviews by users.
+  - Reviews_Number:	Number of written reviews by users.
 
- - Quotes_Number :	Number of quotes taken from the book and published by users.
+  - Quotes_Number :	Number of quotes taken from the book and published by users.
 
- - Community_Size : Number of users who added the book to their shelves (as read, currently reading, or to_read)
+  - Community_Size : Number of users who added the book to their shelves (as read, currently reading, or to_read)
 
- - Pages_Number :	Amount of pages per title.
+  - Pages_Number :	Amount of pages per title.
 
- - Editions : Number of different editions for the book, not the current one.
+  - Editions : Number of different editions for the book, not the current one.
 
- - Publication_Year: Year of the first publication.
+  - Publication_Year: Year of the first publication.
 
- - Publisher	: Publisher's name.
+  - Publisher	: Publisher's name.
+
+
 
 
 
